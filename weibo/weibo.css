@@ -1,0 +1,260 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#div1{
+	height: 50px;
+	width: 100%;
+	background: rgba(247,252,253,0.99);
+	position: fixed;
+	top: 0px;
+	z-index: 1;
+	border-top: solid red;
+}
+#a1{
+	float: left;
+}
+#img1{
+	height: 40px
+	width:90px;
+	margin: 5px 20px 5px 50px;
+}
+#input1{
+	height: 25px;
+	width: 400px;
+	margin: 10px 0px 0px 0px;
+}
+#a3{
+	color: 	#FF4500;
+}
+.a2:hover{
+	color: 	#FF4500;	
+}
+.a2{
+	color: black;
+}
+a{
+	text-decoration: none;
+}
+#div2{
+	width: 100%;
+	height: 2000px;
+}
+#table1{
+	width: 150px;
+	height: 600px;
+	position: fixed;
+	top: 53px;
+	margin-left: 157px;
+	margin-top: 20px;
+	background: rgba(69,181,228,0.5);
+}
+.td1{
+	padding: 10px 10px 10px 10px; 
+	color: white;
+	font-size: 50%;
+}
+.td1:hover{
+	background: rgb(160,217,241);
+	cursor: pointer;
+}
+#table2{
+	margin-left: 307px;
+	margin-top: 50px;
+	width: 600px;
+	height:1500px;
+	position: absolute;
+	top: 20px;
+
+}
+#td2{
+	height: 200px;
+	background: white;
+	border-radius: 3px;
+}
+.td4{
+	font-weight: bolder;
+}
+#p1{
+	font-family:  serif;
+	color: blue;
+	font-size: 0.6em;
+	text-align: left;
+	margin-left: 10px;
+}
+.a5{
+	margin-left: 10px;
+	margin-right: 10px;
+	vertical-align: middle;
+	font-size: 0.7em;
+}
+.a5:hover{
+	color: #FF4500;
+}
+#input2{
+	width: 580px;
+	height: 140px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+#td3{
+	width: 600px;
+	height: 50px;
+	background: white;
+	position: relative;
+	top: 10px;
+	border-radius: 3px;
+}
+.span1{
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size:80%;
+}
+.aa{
+	color: black;
+}
+.aa:hover{
+	color: #FF4500;
+}
+.td5{
+	position: relative;;
+	top: 20px;
+	height: 550px;
+	width: 600px;
+	background: white;
+	border-radius: 3px;
+}
+.div3{
+	margin:10px auto;
+}
+.class1{
+	font-size:70%;
+	color: black; 
+	font-weight: bold;
+}
+.class1:hover{
+	color: #ff4500;
+}
+.class2{
+	font-size: 0.5em;
+	color: rgb(192,192,192);
+	float: left;
+}
+.span3:hover{
+	color: #ff4500;
+}
+.class3{
+	margin-top: 10px;
+}
+.div4{
+	height: 450px;
+	width: 600px;
+}
+.div5{
+	height: 10px;
+}
+
+.aa1{
+	color:#FF4500;
+}
+.aa2{
+	color: #ff4500;
+}
+.span2{
+	position: absolute;
+	left: 80px;
+	font-size: 85%;
+}
+.div5{
+
+	border-bottom: 1px solid #f0f8ff;
+}
+#rdiv1{
+	position: relative;
+	top: 72px;
+	position: relative;
+	left: 930px;
+	width: 300px;
+	height: 200px;
+	background: white;
+	border-radius: 3px;
+}
+#rdiv2{
+	position: relative;
+	top: 85px;
+	position: relative;
+	left: 930px;
+	width: 300px;
+	height: 230px;
+	background: white;
+	border-radius: 3px;
+}
+#rdiv3{
+	position: relative;
+	top: 100px;
+	position: relative;
+	left: 930px;
+	width: 300px;
+	height: 330px;
+	background: white;
+	border-radius: 3px;
+}
+#rdiv4{
+	position: relative;
+	top: 120px;
+	position: relative;
+	left: 930px;
+	width: 300px;
+	height: 330px;
+	background: white;
+	border-radius: 3px;
+}
+#rdiv5{
+	position: relative;
+	top: 140px;
+	position: relative;
+	left: 930px;
+	width: 300px;
+	height: 280px;
+	background: white;\
+	border-radius: 3px;
+}
+#rdiv6{
+	position: relative;
+	top: 160px;
+	position: relative;
+	left: 930px;
+	width: 300px;
+	height: 200px;
+	background: white;
+	border-radius: 3px;
+}
+.a10:hover{
+	color: #ff4500;
+}
+.a11{
+	color: black;
+}
+.name{
+	font-size: 95%;
+
+}
+#rdiv3 span{
+	font-size: 80%;
+	cursor: pointer;;
+}
+#rdiv7{
+	width: 100%;
+	height: 230px;
+	background: white;
+	position: relative;top: 1570px;
+}
+.l1{
+	font-size: 80%;
+	color: rgb(192,192,192);
+}
+.l1:hover{
+	color: #ff4500;
+	cursor: pointer;
+}
