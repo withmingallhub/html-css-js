@@ -18,12 +18,12 @@
 		</div>
 	</a>
 	<a href="" class="side_erwei">
-		<img src="erwei.png" alt="">
+		<img src="picture/erwei.png" alt="">
 	</a>
 	
 	<ul class="top">
 		<a href="" class="top_picture">
-			<img src="top.png" alt="">
+			<img src="picture/top.png" alt="">
 		</a>
 		<span class="top_world_first"><span style="font-size: 1.5em;color: rgb(27,146,87);position: relative;top: 2px;"><i class="fa fa-opera"></i></span>成长守护平台</span>
 		<span class="top_world_last">腾讯游戏排行榜<i class="fa fa-caret-square-o-down"></i></span>
@@ -162,7 +162,7 @@
 			<div id="side">
 				<div id="side_top">
 					<a href="">
-						<img src="denglu.png" alt="">
+						<img src="picture/denglu.png" alt="">
 					</a>
 				</div>
 				<div id="side_entrance">
@@ -342,13 +342,13 @@
 					<div id="main_right_top_picture">
 						<div class="main_top_include">
 							<ul class="main_top_pictures">
-								<li class="main_top_picture"><a href=""><img src="img1.jpg" alt="" class="main_top_picture_img" style="display: block;"></a></li>
-								<li class="main_top_picture"><a href=""><img src="img2.jpg" alt="" class="main_top_picture_img"></a></li>
-								<li class="main_top_picture"><a href=""><img src="img3.jpg" alt="" class="main_top_picture_img"></a></li>
-								<li class="main_top_picture"><a href=""><img src="img4.jpg" alt="" class="main_top_picture_img"></a></li>
-								<li class="main_top_picture"><a href=""><img src="img5.jpg" alt="" class="main_top_picture_img"></a></li>
-								<li class="main_top_picture"><a href=""><img src="img6.jpg" alt="" class="main_top_picture_img"></a></li>
-								<li class="main_top_picture"><a href=""><img src="img7.jpg" alt="" class="main_top_picture_img"></a></li>
+								<li class="main_top_picture"><a href=""><img src="picture/img1.jpg" alt="" class="main_top_picture_img" style="display: block;"></a></li>
+								<li class="main_top_picture"><a href=""><img src="picture/img2.jpg" alt="" class="main_top_picture_img"></a></li>
+								<li class="main_top_picture"><a href=""><img src="picture/img3.jpg" alt="" class="main_top_picture_img"></a></li>
+								<li class="main_top_picture"><a href=""><img src="picture/img4.jpg" alt="" class="main_top_picture_img"></a></li>
+								<li class="main_top_picture"><a href=""><img src="picture/img5.jpg" alt="" class="main_top_picture_img"></a></li>
+								<li class="main_top_picture"><a href=""><img src="picture/img6.jpg" alt="" class="main_top_picture_img"></a></li>
+								<li class="main_top_picture"><a href=""><img src="picture/img7.jpg" alt="" class="main_top_picture_img"></a></li>
 							</ul>
 							<ul class="main_top_bottoms">
 								<li class="main_top_bottom" style="background: rgb(234,71,41)">1</li>
@@ -470,7 +470,7 @@
 					<div class="main_right_next_main">
 						<div class="main_right_next_first">
 							<span class="main_right_next_first_first"><i class="fa fa-gg fa-2x"></i></span>
-							<span class="main_right_next_first_last"><img src="first.png" alt=""></span>
+							<span class="main_right_next_first_last"><img src="picture/first.png" alt=""></span>
 							<p class="main_right_next_first_more">更多活动+</p>
 						</div>
 						<ul class="main_right_next_two">
@@ -483,49 +483,49 @@
 						</ul>
 						<ul class="main_right_next_last">
 							<div class="main_right_next_last_every" style="display: block;">
-								<a href="" class="main_right_next_last_click"><img src="new1.jpg" alt="" class="main_right_next_last_picture"></a>
-								<a href="" class="main_right_next_last_click"><img src="shop1.jpg" alt="" class="main_right_next_last_picture"></a>
-								<a href="" class="main_right_next_last_click"><img src="shop2.jpg" alt="" class="main_right_next_last_picture"></a>
-								<a href="" class="main_right_next_last_click"><img src="heigh1.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/new1.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/shop1.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/shop2.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/heigh1.jpg" alt="" class="main_right_next_last_picture"></a>
 							</div>
 							<div class="main_right_next_last_every">
-								<a href="" class="main_right_next_last_click"><img src="new1.jpg" alt="" class="main_right_next_last_picture"></a>
-								<a href="" class="main_right_next_last_click"><img src="new2.jpg" alt="" class="main_right_next_last_picture"></a>
-								<a href="" class="main_right_next_last_click"><img src="new3.jpg" alt="" class="main_right_next_last_picture"></a>
-								<a href="" class="main_right_next_last_click"><img src="new4.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/new1.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/new2.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/new3.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/new4.jpg" alt="" class="main_right_next_last_picture"></a>
 
-
-
-							</div>
-							<div class="main_right_next_last_every">
-								<a href="" class="main_right_next_last_click"><img src="heigh1.jpg" alt="" class="main_right_next_last_picture"></a>
-								<a href="" class="main_right_next_last_click"><img src="heigh2.jpg" alt="" class="main_right_next_last_picture"></a>
-								<a href="" class="main_right_next_last_click"><img src="heigh3.jpg" alt="" class="main_right_next_last_picture"></a>
-								<a href="" class="main_right_next_last_click"><img src="heigh4.jpg" alt="" class="main_right_next_last_picture"></a>
 
 
 							</div>
 							<div class="main_right_next_last_every">
-								<a href="" class="main_right_next_last_click"><img src="shop1.jpg" alt="" class="main_right_next_last_picture"></a>
-								<a href="" class="main_right_next_last_click"><img src="shop2.jpg" alt="" class="main_right_next_last_picture"></a>
-								<a href="" class="main_right_next_last_click"><img src="shop3.jpg" alt="" class="main_right_next_last_picture"></a>
-								<a href="" class="main_right_next_last_click"><img src="shop4.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/heigh1.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/heigh2.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/heigh3.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/heigh4.jpg" alt="" class="main_right_next_last_picture"></a>
 
 
 							</div>
 							<div class="main_right_next_last_every">
-								<a href="" class="main_right_next_last_click"><img src="with1.jpg" alt="" class="main_right_next_last_picture"></a>
-								<a href="" class="main_right_next_last_click"><img src="with2.jpg" alt="" class="main_right_next_last_picture"></a>
-								<a href="" class="main_right_next_last_click"><img src="with3.jpg" alt="" class="main_right_next_last_picture"></a>
-								<a href="" class="main_right_next_last_click"><img src="with4.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/shop1.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/shop2.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/shop3.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/shop4.jpg" alt="" class="main_right_next_last_picture"></a>
 
 
 							</div>
 							<div class="main_right_next_last_every">
-								<a href="" class="main_right_next_last_click"><img src="me1.png" alt="" class="main_right_next_last_picture"></a>
-								<a href="" class="main_right_next_last_click"><img src="mei2.jpg" alt="" class="main_right_next_last_picture"></a>
-								<a href="" class="main_right_next_last_click"><img src="mei3.png" alt="" class="main_right_next_last_picture"></a>
-								<a href="" class="main_right_next_last_click"><img src="mei4.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/with1.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/with2.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/with3.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/with4.jpg" alt="" class="main_right_next_last_picture"></a>
+
+
+							</div>
+							<div class="main_right_next_last_every">
+								<a href="" class="main_right_next_last_click"><img src="picture/me1.png" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/mei2.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/mei3.png" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="picture/mei4.jpg" alt="" class="main_right_next_last_picture"></a>
 
 
 							</div>
@@ -537,7 +537,7 @@
 					<div class="main_right_vidoe_main">
 						<div class="main_right_vidoe_first">
 							<span style="color: #ec4828;"><i class="fa fa-gg fa-2x"></i></span>
-							<img src="vidoe.png" alt="">
+							<img src="picture/vidoe.png" alt="">
 						</div>
 						<div class="main_right_vidoe_down">
 							<div class="main_right_vidoe_left">
@@ -562,24 +562,24 @@
 									</span>
 								</ul>
 								<div class="main_right_left_vidoe" style="display: block;">
-									<a href=""><img src="vidoe1.png" alt="" class="main_right_left_main"></a>
-									<a href=""><img src="vidoe2.png" alt="" class="main_right_left_main"></a>
+									<a href=""><img src="picture/vidoe1.png" alt="" class="main_right_left_main"></a>
+									<a href=""><img src="picture/vidoe2.png" alt="" class="main_right_left_main"></a>
 								</div>
 								<div class="main_right_left_vidoe">
-									<a href=""><img src="vidoe3.png" alt="" class="main_right_left_main"></a>
-									<a href=""><img src="vidoe4.png" alt="" class="main_right_left_main"></a>
+									<a href=""><img src="picture/vidoe3.png" alt="" class="main_right_left_main"></a>
+									<a href=""><img src="picture/vidoe4.png" alt="" class="main_right_left_main"></a>
 								</div>
 								<div class="main_right_left_vidoe">
-									<a href=""><img src="vidoe5.png" alt="" class="main_right_left_main"></a>
-									<a href=""><img src="vidoe6.png" alt="" class="main_right_left_main"></a>
+									<a href=""><img src="picture/vidoe5.png" alt="" class="main_right_left_main"></a>
+									<a href=""><img src="picture/vidoe6.png" alt="" class="main_right_left_main"></a>
 								</div>
 								<div class="main_right_left_vidoe">
-									<a href=""><img src="vidoe7.png" alt="" class="main_right_left_main"></a>
-									<a href=""><img src="vidoe8.png" alt="" class="main_right_left_main"></a>
+									<a href=""><img src="picture/vidoe7.png" alt="" class="main_right_left_main"></a>
+									<a href=""><img src="picture/vidoe8.png" alt="" class="main_right_left_main"></a>
 								</div>
 								<div class="main_right_left_vidoe">
-									<a href=""><img src="vidoe9.png" alt="" class="main_right_left_main"></a>
-									<a href=""><img src="vidoe10.png" alt="" class="main_right_left_main"></a>
+									<a href=""><img src="picture/vidoe9.png" alt="" class="main_right_left_main"></a>
+									<a href=""><img src="picture/vidoe10.png" alt="" class="main_right_left_main"></a>
 								</div>
 							</div>
 							<div class="main_right_vidoe_right">
@@ -593,8 +593,8 @@
 									</span>
 								</div>
 								<div class="main_right_vidoe_rightdown">
-									<img src="ming1.png" alt="" class="main_right_vidoe_rightdown_picture">
-									<img src="ming2.png" alt="" class="main_right_vidoe_rightdown_picture">
+									<img src="picture/ming1.png" alt="" class="main_right_vidoe_rightdown_picture">
+									<img src="picture/ming2.png" alt="" class="main_right_vidoe_rightdown_picture">
 								</div>
 
 
@@ -608,13 +608,13 @@
 						<div class="flow">
 							<div class="main_right_brand_top">
 								<span style="color: #ec4828;"><i class="fa fa-gg fa-2x"></i></span>
-								<img src="brand.png" alt="">
+								<img src="picture/brand.png" alt="">
 								<span class="main_right_brand_top_main"><a href="" class="main_right_brand_top_right">更多<span style="color: #ec4828;">+</span></a></span>
 							</div>
 						
 							<div class="main_right_brand_next">
-								<a href=""><img src="brand2.jpg" alt="" class="main_right_brand_next_picture"></a>
-								<a href=""><img src="brand3.jpg" alt="" class="main_right_brand_next_picture"></a>
+								<a href=""><img src="picture/brand2.jpg" alt="" class="main_right_brand_next_picture"></a>
+								<a href=""><img src="picture/brand3.jpg" alt="" class="main_right_brand_next_picture"></a>
 							</div>
 						</div>
 						<div class="main_right_brand_third">
@@ -644,7 +644,7 @@
 									</li>
 								</ul>
 								<div class="main_right_brand_lastfirst_last" style="display: block;">
-									<a href="" style="float: left;"><img src="shitu.jpg" alt=""></a>
+									<a href="" style="float: left;"><img src="picture/shitu.jpg" alt=""></a>
 									<ul class ="main_right_brand_lastnext">
 										<li class="main_right_brand_lastfirst_lastli">
 											<a href="" class="main_right_brand_lastfirst_lastnext">第三十九章&#160;邂逅</a>
@@ -664,7 +664,7 @@
 									</ul>
 								</div>
 								<div class="main_right_brand_lastfirst_last">
-									<a href="" style="float: left;"><img src="wanjian.jpg" alt=""></a>
+									<a href="" style="float: left;"><img src="picture/wanjian.jpg" alt=""></a>
 									<ul class ="main_right_brand_lastnext">
 										<li class="main_right_brand_lastfirst_lastli">
 											<a href="" class="main_right_brand_lastfirst_lastnext">[万剑之王]&#160;第五章&#160;生命之息</a>
@@ -684,7 +684,7 @@
 									</ul>
 								</div>
 								<div class="main_right_brand_lastfirst_last">
-									<a href="" style="float: left;"><img src="ala.jpg" alt=""></a>
+									<a href="" style="float: left;"><img src="picture/ala.jpg" alt=""></a>
 									<ul class ="main_right_brand_lastnext">
 										<li class="main_right_brand_lastfirst_lastli">
 											<a href="" class="main_right_brand_lastfirst_lastnext">[阿拉德之剑]&#160;第五卷&#160;暗黑龙城</a>
@@ -705,7 +705,7 @@
 								</div>
 							</div>
 							<div class="main_right_brand_lastlast">
-								<a href=""><img src="dongman.jpg" alt="" style="margin-top: 27px;"></a>
+								<a href=""><img src="picture/dongman.jpg" alt="" style="margin-top: 27px;"></a>
 							</div>
 						</div>
 					</div>
@@ -721,41 +721,41 @@
 					<div class="main_right_works_all">
 						<div>
 							<span style="color: #ec4828;"><i class="fa fa-gg fa-2x"></i></span>
-							<img src="saishi.jpg" alt="">
+							<img src="picture/saishi.jpg" alt="">
 						</div>
 						<ul>
 							<li class="main_right_works_zi" style="background: #ec4828;"><span class="main_last">鬼剑士</li></li>
-							<li class="main_right_works_tu" style="display: block;"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_tu" style="display: block;"><img src="picture/aaa.png" alt=""></li>
 							<li class="main_right_works_zi"><span class="main_last">格斗家(女)</span></li>
-							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_tu"><img src="picture/aaa.png" alt=""></li>
 							<li class="main_right_works_zi"><span class="main_last">神枪手</span></li>
-							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_tu"><img src="picture/aaa.png" alt=""></li>
 							<li class="main_right_works_zi"><span class="main_last">魔法师(女)</span></li>
-							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_tu"><img src="picture/aaa.png" alt=""></li>
 							<li class="main_right_works_zi"><span class="main_last">男法师</span></li>
-							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_tu"><img src="picture/aaa.png" alt=""></li>
 							<li class="main_right_works_zi"><span class="main_last">圣职者</span></li>
-							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_tu"><img src="picture/aaa.png" alt=""></li>
 							<li class="main_right_works_zi"><span class="main_last">圣职者(女)</span></li>
-							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_tu"><img src="picture/aaa.png" alt=""></li>
 							<li class="main_right_works_zi"><span class="main_last">女枪手</span></li>
-							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_tu"><img src="picture/aaa.png" alt=""></li>
 							<li class="main_right_works_zi"><span class="main_last">暗夜使者</span></li>
-							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_tu"><img src="picture/aaa.png" alt=""></li>
 							<li class="main_right_works_zi"><span class="main_last">格斗家(男)</span></li>
-							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_tu"><img src="picture/aaa.png" alt=""></li>
 							<li class="main_right_works_zi"><span class="main_last">黑暗武士</span></li>
-							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_tu"><img src="picture/aaa.png" alt=""></li>
 							<li class="main_right_works_zi"><span class="main_last">缔造者</span></li>
-							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_tu"><img src="picture/aaa.png" alt=""></li>
 							<li class="main_right_works_zi"><span class="main_last">鬼剑士(女)</span></li>
-							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_tu"><img src="picture/aaa.png" alt=""></li>
 							<li class="main_right_works_zi"><span class="main_last">守护者</span></li>
-							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_tu"><img src="picture/aaa.png" alt=""></li>
 							<li class="main_right_works_zi"><span class="main_last">魔枪士</span></li>
-							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_tu"><img src="picture/aaa.png" alt=""></li>
 							<li class="main_right_works_zi"><span class="main_last">枪剑士</span></li>
-							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_tu"><img src="picture/aaa.png" alt=""></li>
 							
 						</ul>
 					</div>
@@ -765,8 +765,8 @@
 		</div>
 	<div class="end">
 		<div class="end_from">
-			<img src="end.png" alt="" class="end_last">
-			<img src="eend.png" alt="" class="end_last_last">
+			<img src="picture/end.png" alt="" class="end_last">
+			<img src="picture/eend.png" alt="" class="end_last_last">
 		</div>
 
 	</div></div>
