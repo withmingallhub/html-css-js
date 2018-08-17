@@ -1,0 +1,775 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>DNF官方网站</title>
+	<link rel="stylesheet" type="text/css" href="dnf.css">
+	<link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.css">
+
+</head>
+<body>
+	<a href="">
+		<div class="all_fix">
+			<li class="all_fix_world">历</li>
+			<li class="all_fix_world">史</li>
+			<li class="all_fix_world">版</li>
+			<li class="all_fix_world">本</li>
+			<li class="all_fix_world"><i class="fa fa-angle-double-right"></i></li>
+		</div>
+	</a>
+	<a href="" class="side_erwei">
+		<img src="erwei.png" alt="">
+	</a>
+	
+	<ul class="top">
+		<a href="" class="top_picture">
+			<img src="top.png" alt="">
+		</a>
+		<span class="top_world_first"><span style="font-size: 1.5em;color: rgb(27,146,87);position: relative;top: 2px;"><i class="fa fa-opera"></i></span>成长守护平台</span>
+		<span class="top_world_last">腾讯游戏排行榜<i class="fa fa-caret-square-o-down"></i></span>
+	</ul>
+	<div class="background">
+		
+		<div class="navigetion">
+
+			<li class="title"><a href="" class="click_title" id="title1"></a></li>
+			<li class="title"><a href="" class="click_title" id="title2"></a></li>
+			<li class="title"><a href="" class="click_title" id="title3"></a></li>
+			<li class="title"><a href="" class="click_title" id="title4"></a></li>
+			<li class="title"><a href="" class="click_title" id="title5"></a></li>
+			<li class="title"><a href="" class="click_title" id="title6"></a></li>
+			<li class="title"><a href="" class="click_title" id="title7"></a></li>
+			<a href="" id="official"></a>
+			<div id="function_room">
+			<ul id="function1">
+				<li class="function_li function_li1">
+					<a href="" class="function_main">共创第三季</a>
+				</li>
+				<li class="function_li function_li1">
+					<a href="" class="function_main">周边商城</a>
+				</li>
+				<li class="function_li function_li1">
+					<a href="" class="function_main">道具城</a>
+				</li>
+			</ul>
+			<ul id="function2">
+				<li class="function_li function_li2">
+					<a href="" class="function_main">新闻公告</a>
+				</li>
+				<li class="function_li function_li2">
+					<a href="" class="function_main">新手指南</a>
+				</li>
+				<li class="function_li function_li2">
+					<a href="" class="function_main">版本专题</a>
+				</li>
+				<li class="function_li function_li2">
+					<a href="" class="function_main">职业攻略</a>
+				</li>
+				<li class="function_li function_li2">
+					<a href="" class="function_main">壁纸时装</a>
+				</li>
+
+			</ul>
+			<ul id="function3">
+				<li class="function_li function_li3">
+					<a href="" class="function_main">官方活动</a>
+				</li>
+				<li class="function_li function_li3">
+					<a href="" class="function_main">合作活动</a>
+				</li>
+				<li class="function_li function_li3">
+					<a href="" class="function_main">媒体活动</a>
+				</li>
+				<li class="function_li function_li3">
+					<a href="" class="function_main">网吧特权</a>
+				</li>
+
+			</ul>
+			<ul id="function4">
+				<li class="function_li function_li4">
+					<a href="" class="function_main">F1天王赛</a>
+				</li>
+				<li class="function_li function_li4">
+					<a href="" class="function_main">职业联赛</a>
+				</li>
+				<li class="function_li function_li4">
+					<a href="" class="function_main">职业第一人</a>
+				</li>
+				<li class="function_li function_li4">
+					<a href="" class="function_main">格斗大赛</a>
+				</li>
+
+			</ul>
+			<ul id="function5">
+				<li class="function_li function_li5">
+					<a href="" class="function_main">充值</a>
+				</li>
+				<li class="function_li function_li5">
+					<a href="" class="function_main">兑换CDKEY</a>
+				</li>
+				<li class="function_li function_li5">
+					<a href="" class="function_main">被盗找回</a>
+				</li>
+				<li class="function_li function_li5">
+					<a href="" class="function_main">角色恢复</a>
+				</li>
+				<li class="function_li function_li5">
+					<a href="" class="function_main">圣耀服务</a>
+				</li>
+
+			</ul>
+			<ul id="function6">
+				<li class="function_li function_li6">
+					<a href="" class="function_main">安全任务</a>
+				</li>
+				<li class="function_li function_li6">
+					<a href="" class="function_main">处罚申诉</a>
+				</li>
+				<li class="function_li function_li6">
+					<a href="" class="function_main">视频举报</a>
+				</li>
+				<li class="function_li function_li6">
+					<a href="" class="function_main">被盗找回</a>
+				</li>
+				<li class="function_li function_li6">
+					<a href="" class="function_main">信用等级</a>
+				</li>
+
+			</ul>
+			<ul id="function7">
+				<li class="function_li function_li7">
+					<a href="" class="function_main">DNF助手</a>
+				</li>
+				<li class="function_li function_li7">
+					<a href="" class="function_main">论坛</a>
+				</li>
+				<li class="function_li function_li7">
+					<a href="" class="function_main">微信</a>
+				</li>
+				<li class="function_li function_li7">
+					<a href="" class="function_main">微博</a>
+				</li>
+				<li class="function_li function_li7">
+					<a href="" class="function_main">问答</a>
+				</li>
+
+			</ul>
+			<a href="" id="block"></a>
+
+			</div>
+		</div>
+		<div id="main">
+			<div id="side">
+				<div id="side_top">
+					<a href="">
+						<img src="denglu.png" alt="">
+					</a>
+				</div>
+				<div id="side_entrance">
+					<span class="side_entrance_top">快速入口</span>
+					<div>
+						<ul>
+							<li class="side_entrance_picture">
+								<a href="" class="side_entrance_picture_world">
+									&#160;&#160;
+									<i class="fa fa-key fa-2x"></i>
+									<p>CDK兑换</p>
+								</a>
+							</li>
+							<li class="side_entrance_picture">
+								<a href="" class="side_entrance_picture_world">
+									&#160;&#160;
+									<i class="fa fa-ravelry fa-2x"></i>
+									<p>黑钻专区</p>
+								</a>
+							</li>
+							<li class="side_entrance_picture">
+								<a href="" class="side_entrance_picture_world">
+									&#160;&#160;
+									<i class="fa fa-user-circle-o fa-2x"></i>
+									<p>客服留言</p>
+								</a>
+							</li>
+							<li class="side_entrance_picture">
+								<a href="" class="side_entrance_picture_world">
+									&#160;&#160;
+									<i class="fa fa-gear fa-2x"></i>
+									<p>安全中心</p>
+								</a>
+							</li>
+							<li class="side_entrance_picture">
+								<a href="" class="side_entrance_picture_world">
+									&#160;&#160;
+									<i class="fa fa-money fa-2x"></i>
+									<p>周边商城</p>
+								</a>
+							</li>
+							<li class="side_entrance_picture">
+								<a href="" class="side_entrance_picture_world">
+									&#160;&#160;
+									<i class="fa fa-headphones fa-2x"></i>
+									<p>联系客服</p>
+								</a>
+							</li>
+
+						</ul>
+					</div>
+				</div>
+				<div id="side_community">
+					<span class="side_community_top">玩家社区</span>
+					<div>
+						<ul>
+							<li class="side_community_picture">
+								<a href="" class="side_community_picture_world">
+									&#160;&#160;
+									<i class="fa fa-commenting-o fa-2x"></i>
+									<p>论坛交流</p>
+								</a>
+							</li>
+							<li class="side_community_picture">
+								<a href="" class="side_community_picture_world">
+									&#160;&#160;
+									<i class="fa fa-weixin fa-2x"></i>
+									<p>关注微信</p>
+								</a>
+							</li>
+							<li class="side_community_picture">
+								<a href="" class="side_community_picture_world">
+									&#160;&#160;
+									<i class="fa fa-lightbulb-o fa-2x"></i>
+									<p>点亮图标</p>
+								</a>
+							</li>
+							<li class="side_community_picture">
+								<a href="" class="side_community_picture_world">
+									&#160;&#160;
+									<i class="fa fa-tv fa-2x"></i>
+									<p>DNF电台</p>
+								</a>
+							</li>
+							<li class="side_community_picture">
+								<a href="" class="side_community_picture_world">
+									&#160;
+									<i class="fa fa-file-photo-o fa-2x"></i>
+									<p>原画馆&#160;</p>
+								</a>
+							</li>
+							<li class="side_community_picture">
+								<a href="" class="side_community_picture_world">
+									&#160;&#160;
+									<i class="fa fa-gitlab fa-2x"></i>
+									<p>心悦专区</p>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div id="side_choise">
+					<ul class="side_choise_list">
+						<li class="side_choise_li">
+							<span class="side_choise_span">新手指南</span><span style="float: right;position: relative;top: 15px;"><i class="fa fa-angle-right"></i></span>
+						</li>
+						<li class="side_choise_li">
+							<span class="side_choise_span">资料百科</span><span style="float: right;position: relative;top: 15px;"><i class="fa fa-angle-right"></i></span>
+						</li>
+						<li class="side_choise_li">
+							<span class="side_choise_span">视频攻略</span><span style="float: right;position: relative;top: 15px;"><i class="fa fa-angle-right"></i></span>
+						</li>
+						<li class="side_choise_li">
+							<span class="side_choise_span">自助服务</span><span style="float: right;position: relative;top: 15px;"><i class="fa fa-angle-right"></i></span>
+						</li>
+					</ul>
+					<div class="side_choise_out" style="display: none;">
+						<ul class="side_choise_out_list">
+							<li class="side_choise_out_world"><i class="fa fa-space-shuttle fa-2x"></i><p class="side_choise_p">游戏登录</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-square-o fa-2x"></i><p class="side_choise_p">游戏界面</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-star-half-full fa-2x"></i><p class="side_choise_p">系统设置</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-sticky-note-o  fa-2x"></i><p class="side_choise_p">职业技能</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-tags fa-2x"></i><p class="side_choise_p">等级经验</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-terminal fa-2x"></i><p class="side_choise_p">战斗系统</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-thumb-tack fa-2x"></i><p class="side_choise_p">任务系统</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-times-circle-o fa-2x"></i><p class="side_choise_p">地下城</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-tty fa-2x"></i><p class="side_choise_p">社区系统</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-university fa-2x"></i><p class="side_choise_p">宠物</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-window-restore fa-2x"></i><p class="side_choise_p">生产/交易</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-wrench fa-2x"></i><p class="side_choise_p">副职业</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-volume-down fa-2x"></i><p class="side_choise_p">装备</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-unlock fa-2x"></i><p class="side_choise_p">商城</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-tree fa-2x"></i><p class="side_choise_p">特色玩法</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-user-secret fa-2x"></i><p class="side_choise_p">角斗场</p></li>
+						</ul>
+					</div>
+					<div class="side_choise_out" style="display: none;">
+						<div class="side_choise_out_twoleft">
+							<li class="side_choise_out_world"><i class="fa fa-user-secret fa-2x"></i><p class="side_choise_p">角斗场</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-user-secret fa-2x"></i><p class="side_choise_p">角斗场</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-user-secret fa-2x"></i><p class="side_choise_p">角斗场</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-user-secret fa-2x"></i><p class="side_choise_p">角斗场</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-user-secret fa-2x"></i><p class="side_choise_p">角斗场</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-user-secret fa-2x"></i><p class="side_choise_p">角斗场</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-user-secret fa-2x"></i><p class="side_choise_p">角斗场</p></li>
+							<li class="side_choise_out_world"><i class="fa fa-user-secret fa-2x"></i><p class="side_choise_p">角斗场</p></li>
+						</div>
+						<div class="side_choise_out_tworight">
+							<p class="side_choise_out_title">剧情百科</p>
+							<span class="side_choise_out_main">故事大纲&#160;&#160;</span><span class="side_choise_out_main">插曲故事&#160;&#160;</span><span class="side_choise_out_main">版本故事&#160;&#160;</span><span class="side_choise_out_main">故事簿</span>
+							<p class="side_choise_out_title">人物百科</p>
+							<span class="side_choise_out_main">职业设定&#160;&#160;</span><span class="side_choise_out_main">种族介绍&#160;&#160;</span><span class="side_choise_out_main">城镇人物&#160;&#160;</span><span class="side_choise_out_main">剧情任务</span>
+							<p class="side_choise_out_title">背景知识</p>
+							<span class="side_choise_out_main">地理划分&#160;&#160;</span><span class="side_choise_out_main">势力介绍&#160;&#160;</span><span class="side_choise_out_main">组织介绍&#160;&#160;</span><span class="side_choise_out_main">区域介绍</span>
+							<p class="side_choise_out_title">游戏设置</p>
+							<span class="side_choise_out_main">编年史&#160;&#160;</span><span class="side_choise_out_main">重要事件&#160;&#160;</span><span class="side_choise_out_main">游戏术语</span>
+						</div>
+					</div>
+
+
+					<div class="side_choise_out" style="display: none;">
+						<div class="side_choise_out_third"></div>
+					</div>
+					<div class="side_choise_out" style="display: none;">
+						<div class="side_choise_out_last"></div>
+					</div>
+
+				</div>
+		<!-- 		<div id="side_recommend">
+					<div class="side_recommend_top">
+						<span style="font-size: 0.8em;font-weight: 700;">道具城推荐</span>
+					</div>
+				</div> -->
+			</div>
+			<div id="main_right">
+				<div id="main_right_top">
+					<div id="main_right_top_picture">
+						<div class="main_top_include">
+							<ul class="main_top_pictures">
+								<li class="main_top_picture"><a href=""><img src="img1.jpg" alt="" class="main_top_picture_img" style="display: block;"></a></li>
+								<li class="main_top_picture"><a href=""><img src="img2.jpg" alt="" class="main_top_picture_img"></a></li>
+								<li class="main_top_picture"><a href=""><img src="img3.jpg" alt="" class="main_top_picture_img"></a></li>
+								<li class="main_top_picture"><a href=""><img src="img4.jpg" alt="" class="main_top_picture_img"></a></li>
+								<li class="main_top_picture"><a href=""><img src="img5.jpg" alt="" class="main_top_picture_img"></a></li>
+								<li class="main_top_picture"><a href=""><img src="img6.jpg" alt="" class="main_top_picture_img"></a></li>
+								<li class="main_top_picture"><a href=""><img src="img7.jpg" alt="" class="main_top_picture_img"></a></li>
+							</ul>
+							<ul class="main_top_bottoms">
+								<li class="main_top_bottom" style="background: rgb(234,71,41)">1</li>
+								<li class="main_top_bottom">2</li>
+								<li class="main_top_bottom">3</li>
+								<li class="main_top_bottom">4</li>
+								<li class="main_top_bottom">5</li>
+								<li class="main_top_bottom">6</li>
+								<li class="main_top_bottom">7</li>
+							</ul>
+						</div>
+					</div>
+					<div id="main_right_top_side">
+						<ul class="main_top_side_ul">	
+							<li class="main_top_side_list" style="border-top:3px solid rgb(236,72,40);">新闻</li>
+							<li class="main_top_side_list">公告</li>
+							<li class="main_top_side_list">活动</li>
+							<li class="main_top_side_list">赛事</li>
+							<li class="main_top_side_list">社区</li>
+							<li style="list-style: none;float: left;margin-top:20px;"><a href="" style="font-size: 0.8em;text-decoration: none;color: #c4b79b;">更多<i class="fa fa-add"></i></a></li>
+						</ul>
+
+
+						<div style="display: block;" class="main_change">
+
+							<div class="main_midlle"><a href="" class="main_a">[新闻] DNF邀您参与玩家面对面，国服方向大家谈</a></div>
+							<ul class="main_bottom_list">
+									<span class="day">8/10</span>
+									<li class="main_bottom">[新闻] DNF DPL联赛报名正式启动四大平台主播实力招人</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[新闻] 八月金毛礼盒，+13强化券不可错过</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[新闻] 那些年爆的史诗，现在终于能穿上了</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[新闻] 携手闯深渊，叫好友一起刷深渊吧</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[新闻] 向艾肯冲啊，艾肯装备礼盒大放送</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[新闻] 周周签到享惊喜，白金传说勋章等你来拿</li>
+							</ul>	
+						</div>
+						<div class="main_change">
+
+							<div class="main_midlle"><a href="" class="main_a">[公告] 8月9日 9点不停机更新公告</a></div>
+							<ul class="main_bottom_list">
+									<span class="day">8/10</span>
+									<li class="main_bottom">[公告] DNF违规封停公告第三批（8月）</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[公告] DNF信用星级规则调整公告</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[公告] DNF违规封停公告第二批（8月）</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[公告] 8月6日电信网络运营商故障相关公告</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[公告] 超时空副本安全规范公告</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[公告] DNF违规封停公告（8月）</li>
+							</ul>	
+						</div>
+						<div class="main_change">
+
+							<div class="main_midlle"><a href="" class="main_a">[活动] 枪剑合一 使命必达，枪剑士二次觉醒登陆</a></div>
+							<ul class="main_bottom_list">
+									<span class="day">8/10</span>
+									<li class="main_bottom">[活动] 八月金毛礼盒，+13强化券不可错过</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[活动] 那些年爆的史诗，现在终于能穿上了</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[活动] 携手闯深渊，叫好友一起刷深渊吧</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[活动] 向艾肯冲啊，艾肯装备以及礼盒大放送</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[活动] 周周签到享惊喜，白金徽章和传说勋章等你来拿</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[活动] QQ会员携手送好礼，黑钻会员等游戏大礼免费领</li>
+							</ul>	
+						</div>
+						<div class="main_change">
+
+							<div class="main_midlle"><a href="" class="main_a">[格斗大赛] 11届格斗大赛回顾：全国个人总决赛巅峰之战</a></div>
+							<ul class="main_bottom_list">
+									<span class="day">8/10</span>
+									<li class="main_bottom">[格斗大赛] DNF格斗大赛，哈尔滨北大区决赛你追我赶</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[格斗大赛] 11届格斗大赛：哈尔滨北大区4进2 柔术与炫纹</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[格斗大赛] DNF格斗大赛，北大区4进2同门之争</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[格斗大赛] DNF格斗大赛，北大区16进8空投兵致胜</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[格斗大赛] DNF格斗大赛，北大区20进16骚扰的胜利</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[格斗大赛] “勇士聚首 挚爱十年”大区赛，高格调盛典</li>
+							</ul>	
+						</div>
+						<div class="main_change">
+
+							<div class="main_midlle"><a href="" class="main_a">[论坛] 你当初为什么选择和培养如今主玩的职业？</a></div>
+							<ul class="main_bottom_list">
+									<span class="day">8/10</span>
+									<li class="main_bottom">[论坛] 2分钟看完0802版本更新内容</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[论坛] 体验服快讯：0802版本更新</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[论坛] 萌新十大防骗指南（二）</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[论坛] DNF仓库进化史</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[论坛] 一个月能得几个红豆？</li>
+									<span class="day">8/10</span>
+									<li class="main_bottom">[论坛] 论坛积分兑换活动：职业勋章</li>
+							</ul>	
+						</div>		
+					</div>
+				
+
+				</div>
+				<div id="main_right_next">
+					<div class="main_right_next_main">
+						<div class="main_right_next_first">
+							<span class="main_right_next_first_first"><i class="fa fa-gg fa-2x"></i></span>
+							<span class="main_right_next_first_last"><img src="first.png" alt=""></span>
+							<p class="main_right_next_first_more">更多活动+</p>
+						</div>
+						<ul class="main_right_next_two">
+							<li class="main_right_next_two_title" style="border-top:3px solid #ec4828;color: #ec4828;"><span class="main_right_next_two_world">热门推荐</span></li>
+							<li class="main_right_next_two_title"><span class="main_right_next_two_world">高手升级</span></li>
+							<li class="main_right_next_two_title"><span class="main_right_next_two_world">高手提升</span></li>
+							<li class="main_right_next_two_title"><span class="main_right_next_two_world">商城特惠</span></li>
+							<li class="main_right_next_two_title"><span class="main_right_next_two_world">合作活动</span></li>
+							<li class="main_right_next_two_title"><span class="main_right_next_two_world">媒体活动</span></li>
+						</ul>
+						<ul class="main_right_next_last">
+							<div class="main_right_next_last_every" style="display: block;">
+								<a href="" class="main_right_next_last_click"><img src="new1.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="shop1.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="shop2.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="heigh1.jpg" alt="" class="main_right_next_last_picture"></a>
+							</div>
+							<div class="main_right_next_last_every">
+								<a href="" class="main_right_next_last_click"><img src="new1.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="new2.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="new3.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="new4.jpg" alt="" class="main_right_next_last_picture"></a>
+
+
+
+							</div>
+							<div class="main_right_next_last_every">
+								<a href="" class="main_right_next_last_click"><img src="heigh1.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="heigh2.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="heigh3.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="heigh4.jpg" alt="" class="main_right_next_last_picture"></a>
+
+
+							</div>
+							<div class="main_right_next_last_every">
+								<a href="" class="main_right_next_last_click"><img src="shop1.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="shop2.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="shop3.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="shop4.jpg" alt="" class="main_right_next_last_picture"></a>
+
+
+							</div>
+							<div class="main_right_next_last_every">
+								<a href="" class="main_right_next_last_click"><img src="with1.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="with2.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="with3.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="with4.jpg" alt="" class="main_right_next_last_picture"></a>
+
+
+							</div>
+							<div class="main_right_next_last_every">
+								<a href="" class="main_right_next_last_click"><img src="me1.png" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="mei2.jpg" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="mei3.png" alt="" class="main_right_next_last_picture"></a>
+								<a href="" class="main_right_next_last_click"><img src="mei4.jpg" alt="" class="main_right_next_last_picture"></a>
+
+
+							</div>
+							
+						</ul>
+					</div>
+				</div>
+				<div id="main_right_vidoe">
+					<div class="main_right_vidoe_main">
+						<div class="main_right_vidoe_first">
+							<span style="color: #ec4828;"><i class="fa fa-gg fa-2x"></i></span>
+							<img src="vidoe.png" alt="">
+						</div>
+						<div class="main_right_vidoe_down">
+							<div class="main_right_vidoe_left">
+								<ul>
+									<li class="main_right_left_title" style="border-top: 3px solid #ec4828;color: #ec4828;">
+										<span class="main_right_left_world">热门</span>
+									</li>
+									<li class="main_right_left_title">
+										<span class="main_right_left_world">栏目</span>
+									</li>
+									<li class="main_right_left_title">
+										<span class="main_right_left_world">攻略</span>
+									</li>
+									<li class="main_right_left_title">
+										<span class="main_right_left_world">赛事</span>
+									</li>
+									<li class="main_right_left_title">
+										<span class="main_right_left_world">官方</span>
+									</li>
+									<span class="main_right_left_left">
+										<a href="" class="main_right_left_a">更多<span style="color: #ec4828;">+</span></a>
+									</span>
+								</ul>
+								<div class="main_right_left_vidoe" style="display: block;">
+									<a href=""><img src="vidoe1.png" alt="" class="main_right_left_main"></a>
+									<a href=""><img src="vidoe2.png" alt="" class="main_right_left_main"></a>
+								</div>
+								<div class="main_right_left_vidoe">
+									<a href=""><img src="vidoe3.png" alt="" class="main_right_left_main"></a>
+									<a href=""><img src="vidoe4.png" alt="" class="main_right_left_main"></a>
+								</div>
+								<div class="main_right_left_vidoe">
+									<a href=""><img src="vidoe5.png" alt="" class="main_right_left_main"></a>
+									<a href=""><img src="vidoe6.png" alt="" class="main_right_left_main"></a>
+								</div>
+								<div class="main_right_left_vidoe">
+									<a href=""><img src="vidoe7.png" alt="" class="main_right_left_main"></a>
+									<a href=""><img src="vidoe8.png" alt="" class="main_right_left_main"></a>
+								</div>
+								<div class="main_right_left_vidoe">
+									<a href=""><img src="vidoe9.png" alt="" class="main_right_left_main"></a>
+									<a href=""><img src="vidoe10.png" alt="" class="main_right_left_main"></a>
+								</div>
+							</div>
+							<div class="main_right_vidoe_right">
+								<div class="main_right_vidoe_rightup">
+									<div class="main_right_vidoe_rightup_left">
+										<span class="main_right_vidoe_rightup_world">明星主播</span>
+									</div>
+									<span class="main_right_vidoe_rightup_right">
+										<a href="" class="main_right_vidoe_rightup_a">更多<span style="color: #ec4828;">+</span>
+										</a>
+									</span>
+								</div>
+								<div class="main_right_vidoe_rightdown">
+									<img src="ming1.png" alt="" class="main_right_vidoe_rightdown_picture">
+									<img src="ming2.png" alt="" class="main_right_vidoe_rightdown_picture">
+								</div>
+
+
+
+							</div>
+						</div>	
+					</div>
+				</div>
+				<div id="main_right_brand">
+					<div class="main_right_brand_up">
+						<div class="flow">
+							<div class="main_right_brand_top">
+								<span style="color: #ec4828;"><i class="fa fa-gg fa-2x"></i></span>
+								<img src="brand.png" alt="">
+								<span class="main_right_brand_top_main"><a href="" class="main_right_brand_top_right">更多<span style="color: #ec4828;">+</span></a></span>
+							</div>
+						
+							<div class="main_right_brand_next">
+								<a href=""><img src="brand2.jpg" alt="" class="main_right_brand_next_picture"></a>
+								<a href=""><img src="brand3.jpg" alt="" class="main_right_brand_next_picture"></a>
+							</div>
+						</div>
+						<div class="main_right_brand_third">
+							<div class="main_right_brand_thirdfirst">
+								<span style="color:#ec4828;font-size: 0.7em;position: relative;top: 10px;"><i class="fa fa-arrow-right"></i></span>
+								<span style="font-size: 0.8em;position: relative;top: 10px;font-weight: 700;margin-left: 10px;">小说</span>
+								<span style="float: right;position: relative;top: 10px;font-size: 0.7em;">更多<span style="color: #ec4828;">+</span></span>
+							</div>
+							<div class="main_right_brand_thirdlast">
+								<span style="color:#ec4828;font-size: 0.7em;position: relative;top: 10px;"><i class="fa fa-arrow-right"></i></span>
+								<span style="font-size: 0.8em;position: relative;top: 10px;font-weight: 700;margin-left: 10px;">动漫</span>
+								<span style="float: right;position: relative;top: 10px;font-size: 0.7em;">更多<span style="color: #ec4828;">+</span></span>
+
+							</div>
+						</div>
+						<div class="main_right_brand_last">
+							<div class="main_right_brand_lastfirst">
+								<ul class="main_right_brand_lastfirst_all">
+									<li class="main_right_brand_lastfirst_world" style="color: #ec4828;border-top: 3px solid #ec4828;">
+										<span class="main_right_brand_lastfirst_world_main">最后一个使徒</span>
+									</li>
+									<li class="main_right_brand_lastfirst_world">
+										<span class="main_right_brand_lastfirst_world_main">万剑之王</span>
+									</li>
+									<li class="main_right_brand_lastfirst_world">
+										<span class="main_right_brand_lastfirst_world_main">阿拉德之剑</span>
+									</li>
+								</ul>
+								<div class="main_right_brand_lastfirst_last" style="display: block;">
+									<a href="" style="float: left;"><img src="shitu.jpg" alt=""></a>
+									<ul class ="main_right_brand_lastnext">
+										<li class="main_right_brand_lastfirst_lastli">
+											<a href="" class="main_right_brand_lastfirst_lastnext">第三十九章&#160;邂逅</a>
+										</li>
+										<li class="main_right_brand_lastfirst_lastli">
+											<a href="" class="main_right_brand_lastfirst_lastnext">第三十八章&#160;中计</a>
+										</li>
+										<li class="main_right_brand_lastfirst_lastli">
+											<a href="" class="main_right_brand_lastfirst_lastnext">第三十七章&#160;追与击</a>
+										</li>
+										<li class="main_right_brand_lastfirst_lastli">
+											<a href="" class="main_right_brand_lastfirst_lastnext">第三十六章&#160;毒液发威</a>
+										</li>
+										<li class="main_right_brand_lastfirst_lastli">
+											<a href="" class="main_right_brand_lastfirst_lastnext">第三十五章&#160;守卫者</a>
+										</li>
+									</ul>
+								</div>
+								<div class="main_right_brand_lastfirst_last">
+									<a href="" style="float: left;"><img src="wanjian.jpg" alt=""></a>
+									<ul class ="main_right_brand_lastnext">
+										<li class="main_right_brand_lastfirst_lastli">
+											<a href="" class="main_right_brand_lastfirst_lastnext">[万剑之王]&#160;第五章&#160;生命之息</a>
+										</li>
+										<li class="main_right_brand_lastfirst_lastli">
+											<a href="" class="main_right_brand_lastfirst_lastnext">[万剑之王]&#160;第四章&#160;决斗</a>
+										</li>
+										<li class="main_right_brand_lastfirst_lastli">
+											<a href="" class="main_right_brand_lastfirst_lastnext">[万剑之王]&#160;第三章&#160;勇士</a>
+										</li>
+										<li class="main_right_brand_lastfirst_lastli">
+											<a href="" class="main_right_brand_lastfirst_lastnext">[万剑之王]&#160;第二章&#160;鬼手</a>
+										</li>
+										<li class="main_right_brand_lastfirst_lastli">
+											<a href="" class="main_right_brand_lastfirst_lastnext">[万剑之王]&#160;第一章&#160;雷蒙</a>
+										</li>
+									</ul>
+								</div>
+								<div class="main_right_brand_lastfirst_last">
+									<a href="" style="float: left;"><img src="ala.jpg" alt=""></a>
+									<ul class ="main_right_brand_lastnext">
+										<li class="main_right_brand_lastfirst_lastli">
+											<a href="" class="main_right_brand_lastfirst_lastnext">[阿拉德之剑]&#160;第五卷&#160;暗黑龙城</a>
+										</li>
+										<li class="main_right_brand_lastfirst_lastli">
+											<a href="" class="main_right_brand_lastfirst_lastnext">[阿拉德之剑]&#160;第四卷&#160;天帷巨兽</a>
+										</li>
+										<li class="main_right_brand_lastfirst_lastli">
+											<a href="" class="main_right_brand_lastfirst_lastnext">[阿拉德之剑]&#160;第三卷&#160;天空城</a>
+										</li>
+										<li class="main_right_brand_lastfirst_lastli">
+											<a href="" class="main_right_brand_lastfirst_lastnext">[阿拉德之剑]&#160;第二卷&#160;隼之团</a>
+										</li>
+										<li class="main_right_brand_lastfirst_lastli">
+											<a href="" class="main_right_brand_lastfirst_lastnext">[阿拉德之剑]&#160;第一卷&#160;三人行</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="main_right_brand_lastlast">
+								<a href=""><img src="dongman.jpg" alt="" style="margin-top: 27px;"></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			<!-- 	<div id="main_right_media">
+
+
+				</div>
+				<div id="main_right_match">
+
+				</div> -->
+				<div class="main_right_works">
+					<div class="main_right_works_all">
+						<div>
+							<span style="color: #ec4828;"><i class="fa fa-gg fa-2x"></i></span>
+							<img src="saishi.jpg" alt="">
+						</div>
+						<ul>
+							<li class="main_right_works_zi" style="background: #ec4828;"><span class="main_last">鬼剑士</li></li>
+							<li class="main_right_works_tu" style="display: block;"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_zi"><span class="main_last">格斗家(女)</span></li>
+							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_zi"><span class="main_last">神枪手</span></li>
+							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_zi"><span class="main_last">魔法师(女)</span></li>
+							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_zi"><span class="main_last">男法师</span></li>
+							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_zi"><span class="main_last">圣职者</span></li>
+							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_zi"><span class="main_last">圣职者(女)</span></li>
+							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_zi"><span class="main_last">女枪手</span></li>
+							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_zi"><span class="main_last">暗夜使者</span></li>
+							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_zi"><span class="main_last">格斗家(男)</span></li>
+							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_zi"><span class="main_last">黑暗武士</span></li>
+							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_zi"><span class="main_last">缔造者</span></li>
+							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_zi"><span class="main_last">鬼剑士(女)</span></li>
+							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_zi"><span class="main_last">守护者</span></li>
+							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_zi"><span class="main_last">魔枪士</span></li>
+							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							<li class="main_right_works_zi"><span class="main_last">枪剑士</span></li>
+							<li class="main_right_works_tu"><img src="aaa.png" alt=""></li>
+							
+						</ul>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	<div class="end">
+		<div class="end_from">
+			<img src="end.png" alt="" class="end_last">
+			<img src="eend.png" alt="" class="end_last_last">
+		</div>
+
+	</div></div>
+	<script type="text/javascript" src="dnf.js"></script>
+</body>
+</html>
