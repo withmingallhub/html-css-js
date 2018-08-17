@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style type="text/css">
+		*{
+			padding: 0px;
+			margin: 0px;
+		}
+		.main_right_top_picture{
+			height: 270px;
+			width: 400px;
+			position: relative;
+			left: 500px;
+			top: 200px;
+		}
+		.main_top_picture{
+			height: 270px;
+			widows: 400px;
+			position: absolute;
+			list-style-type: none;
+			
+		}
+		.main_top_picture_img{
+			display: none;
+			position: absolute;
+			left: 5px;
+			top: 0px;
+		}	
+		.main_top_bottoms{
+			position: absolute;
+			left: 0px;
+			bottom: 0px;
+		}
+		.main_top_bottom{
+			list-style:none;
+			width: 17px;
+			height: 17px;
+			background: rgb(105,105,105);
+			float: left;
+			margin-left: 6px;
+			margin-bottom:10px;
+			text-align: center;
+			font-size: 0.8em;
+		}
+		.main_top_bottom:hover{
+			cursor: default;
+		}
+
+
+
+
+
+	</style>
+</head>
+<body>
+	<div class="main_right_top_picture">
+		<div class="main_top_include">
+			<ul class="main_top_pictures">
+				<li class="main_top_picture"><a href=""><img src="picture/img1.jpg" alt="" class="main_top_picture_img" style="display: block;"></a></li>
+				<li class="main_top_picture"><a href=""><img src="picture/img2.jpg" alt="" class="main_top_picture_img"></a></li>
+				<li class="main_top_picture"><a href=""><img src="picture/img3.jpg" alt="" class="main_top_picture_img"></a></li>
+				<li class="main_top_picture"><a href=""><img src="picture/img4.jpg" alt="" class="main_top_picture_img"></a></li>
+				<li class="main_top_picture"><a href=""><img src="picture/img5.jpg" alt="" class="main_top_picture_img"></a></li>
+				<li class="main_top_picture"><a href=""><img src="picture/img6.jpg" alt="" class="main_top_picture_img"></a></li>
+				<li class="main_top_picture"><a href=""><img src="picture/img7.jpg" alt="" class="main_top_picture_img"></a></li>
+			</ul>
+			<ul class="main_top_bottoms">
+				<li class="main_top_bottom" style="background: rgb(234,71,41)">1</li>
+				<li class="main_top_bottom">2</li>
+				<li class="main_top_bottom">3</li>
+				<li class="main_top_bottom">4</li>
+				<li class="main_top_bottom">5</li>
+				<li class="main_top_bottom">6</li>
+				<li class="main_top_bottom">7</li>
+			</ul>
+
+
+
+
+
+
+		</div>
+
+
+
+
+
+
+	</div>
+	<script type="text/javascript">
+		var img = document.getElementsByClassName('main_top_picture_img');
+		var list = document.getElementsByClassName('main_top_bottom');
+		var pictureBlock = document.getElementsByClassName('main_right_top_picture')[0];
+		var count = 0; 
+		var timer;
+		timer = setInterval(function(){
+				count ++;
+				if(count == 7){
+					count = 0;
+				}
+				for(var i = 0;i < img.length;i ++){
+					img[i].style.display = 'none';
+					list[i].style.background = 'rgb(105,105,105)';
+				}
+				img[count].style.display = 'block';
+				list[count].style.background = 'rgb(234,71,41)';
+				
+
+		},3000)
+		
+
+		pictureBlock.onmouseover = function (){
+			
+			clearInterval(timer);
+		}
+		pictureBlock.onmouseout = function () { 
+			timer = setInterval(function(){
+				count ++;
+				if(count == 7){
+					count = 0;
+				}
+				for(var i = 0;i < img.length;i ++){
+					img[i].style.display = 'none';
+					list[i].style.background = 'rgb(105,105,105)';
+				}
+				img[count].style.display = 'block';
+				list[count].style.background = 'rgb(234,71,41)';
+				
+
+			},3000)
+		}
+		for(var i = 0;i < img.length;i ++){
+			(function(n){
+				list[n].onmouseover = function () {
+					clearInterval(timer);
+					for(var j = 0;j < img.length;j ++){
+						img[j].style.display = 'none';
+						list[j].style.background = 'rgb(105,105,105)';
+					}
+					img[n].style.display = 'block';
+					list[n].style.background = 'rgb(234,71,41)';
+					count = n;
+				}		
+			}(i))	
+		}
+	</script>
+</body>
+</html>
