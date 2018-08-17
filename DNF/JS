@@ -1,0 +1,187 @@
+//轮播图的右边
+
+var li = document.getElementsByClassName('main_top_side_list');
+var div = document.getElementsByClassName('main_change');
+for(var i = 0;i < li.length;i ++){
+	(function(n){
+		li[n].onmouseover = function(){
+			for(var j = 0;j < li.length;j ++){
+				li[j].style.borderTop = '3px solid rgb(23,19,19)';
+				div[j].style.display = 'none';
+			}
+			
+			li[n].style.borderTop = "3px solid rgb(236,72,40)";
+			div[n].style.display = "block";
+		}
+	}(i))
+}
+
+//轮播图
+//
+//
+var img = document.getElementsByClassName('main_top_picture_img');
+var list = document.getElementsByClassName('main_top_bottom');
+var pictureBlock = document.getElementById('main_right_top_picture');
+var count = 0; 
+var timer;
+timer = setInterval(function(){
+		count ++;
+		if(count == 7){
+			count = 0;
+		}
+		for(var i = 0;i < img.length;i ++){
+			img[i].style.display = 'none';
+			list[i].style.background = 'rgb(105,105,105)';
+		}
+		img[count].style.display = 'block';
+		list[count].style.background = 'rgb(234,71,41)';
+		
+
+},3000)
+
+
+pictureBlock.onmouseover = function (){
+	
+	clearInterval(timer);
+}
+pictureBlock.onmouseout = function () { 
+	timer = setInterval(function(){
+		count ++;
+		if(count == 7){
+			count = 0;
+		}
+		for(var i = 0;i < img.length;i ++){
+			img[i].style.display = 'none';
+			list[i].style.background = 'rgb(105,105,105)';
+		}
+		img[count].style.display = 'block';
+		list[count].style.background = 'rgb(234,71,41)';
+		
+
+	},3000)
+}
+for(var i = 0;i < img.length;i ++){
+	(function(n){
+		list[n].onmouseover = function () {
+			clearInterval(timer);
+			for(var j = 0;j < img.length;j ++){
+				img[j].style.display = 'none';
+				list[j].style.background = 'rgb(105,105,105)';
+			}
+			img[n].style.display = 'block';
+			list[n].style.background = 'rgb(234,71,41)';
+			count = n;
+		}		
+	}(i))	
+}
+
+
+//活动中心
+//
+//
+var mainRightNextTwoTitle = document.getElementsByClassName('main_right_next_two_title');
+var mainRightNextLastEvery = document.getElementsByClassName('main_right_next_last_every');
+for(var i = 0;i < mainRightNextTwoTitle.length;i ++){
+	(function (n){
+		mainRightNextTwoTitle[n].onclick = function() {
+			for(var j = 0;j < mainRightNextTwoTitle.length;j ++){
+				mainRightNextTwoTitle[j].style.borderTop = '3px solid white';
+				mainRightNextTwoTitle[j].style.color = 'black';
+				mainRightNextLastEvery[j].style.display = 'none';
+			}
+			mainRightNextLastEvery[n].style.display = 'block';
+			mainRightNextTwoTitle[n].style.borderTop = '3px solid #ec4828';
+			mainRightNextTwoTitle[n].style.color = '#ec4828';
+
+		}
+	}(i))
+}
+
+
+
+//视频专区
+//
+//
+var mainRightLeftTitle = document.getElementsByClassName('main_right_left_title');
+var mainRightLeftVidoe = document.getElementsByClassName('main_right_left_vidoe');
+for(var i = 0;i < mainRightLeftTitle.length;i ++){
+	(function (n){
+		mainRightLeftTitle[n].onclick = function() {
+			for(var j = 0;j < mainRightLeftTitle.length;j ++){
+				mainRightLeftTitle[j].style.borderTop = '3px solid white';
+				mainRightLeftTitle[j].style.color = 'black';
+				mainRightLeftVidoe[j].style.display = 'none';
+			}
+			mainRightLeftVidoe[n].style.display = 'block';
+			mainRightLeftTitle[n].style.borderTop = '3px solid #ec4828';
+			mainRightLeftTitle[n].style.color = '#ec4828';
+
+		}
+	}(i))
+}
+
+
+//小说
+//
+//
+var mainRightBrandLastfirstWorld = document.getElementsByClassName('main_right_brand_lastfirst_world');
+var mainRightBrandLastfirstLast = document.getElementsByClassName('main_right_brand_lastfirst_last');
+for(var i = 0;i < mainRightBrandLastfirstWorld.length;i ++){
+	(function (n){
+		mainRightBrandLastfirstWorld[n].onmouseover = function() {
+			for(var j = 0;j < mainRightBrandLastfirstWorld.length;j ++){
+				mainRightBrandLastfirstWorld[j].style.borderTop = '3px solid white';
+				mainRightBrandLastfirstWorld[j].style.color = 'black';
+				mainRightBrandLastfirstLast[j].style.display = 'none';
+			}
+			mainRightBrandLastfirstLast[n].style.display = 'block';
+			mainRightBrandLastfirstWorld[n].style.borderTop = '3px solid #ec4828';
+			mainRightBrandLastfirstWorld[n].style.color = '#ec4828';
+
+		}
+	}(i))
+}
+
+//侧边展开
+//
+//
+//
+var sideChoiseLi = document.getElementsByClassName('side_choise_li');
+var sideChoiseOut = document.getElementsByClassName('side_choise_out');
+var sideChoiseList = document.getElementsByClassName('side_choise_list')[0];
+for(var i = 0;i < sideChoiseLi.length;i ++){
+	(function (n){
+		sideChoiseLi[n].onmouseover = function() {
+			for(var j = 0;j < sideChoiseLi.length;j ++){
+				sideChoiseOut[j].style.display = 'none';
+			}
+			sideChoiseOut[n].style.display = 'block';
+		}
+	}(i))
+}
+sideChoiseList.onmouseout = function(){
+	for(var i = 0;i < sideChoiseOut.length;i ++){
+		sideChoiseOut[i].style.display = 'none';
+	}
+}
+
+
+//last
+//
+//
+//
+var mainRightWorksZi = document.getElementsByClassName('main_right_works_zi');
+var mainRightWorksTu = document.getElementsByClassName('main_right_works_tu');
+for(var i = 0;i < mainRightWorksZi.length;i ++){
+	(function (n){
+		mainRightWorksZi[n].onclick = function() {
+			for(var j = 0;j < mainRightWorksZi.length;j ++){
+				mainRightWorksZi[j].style.background = 'rgb(243,241,237)';
+				mainRightWorksTu[j].style.display = 'none';
+			}
+			mainRightWorksTu[n].style.display = 'block';
+			mainRightWorksZi[n].style.background = '#ec4828';
+
+		}
+	}(i))
+}
