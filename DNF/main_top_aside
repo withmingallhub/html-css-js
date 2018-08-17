@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style type="text/css">
+		*{
+			padding: 0px;
+			margin: 0px;
+		}
+		#main_right_top_side{
+			height: 270px;
+			width: 410px;
+			border: 1px solid black;
+			background-color: rgb(23,19,19);
+		}
+		.main_top_side_list{
+			height: 19px;
+			width: 40px;
+			list-style: none;
+			float: left;
+			padding: 15px;
+			border-top: 3px solid rgb(23,19,19); 
+			color: #c4b79b;
+		}
+		.main_top_side_list:hover{
+			cursor: pointer;
+		}
+		.main_top_side_ul{
+			height: 58px;
+			width: 410px;
+			margin-left: 20px;
+		}
+		.main_midlle{
+			height: 34px;
+			width: 372px;
+			background-color: #000;
+			margin-left: 18px;
+			text-align: center;
+			margin-bottom: 10px;
+		}
+		.main_a{
+			text-decoration: none;
+			color: #ec4828;
+			position: relative;
+			top: 4px;
+			font-size: 0.9em;
+			
+		}
+		.main_bottom{
+			color: #b8afa2;
+			list-style: none;
+			height: 26px;
+			width: 372px;
+			margin-left: 18px;
+			font-size: 13px;
+		}
+		.main_bottom:hover{
+			color: #ec4828;
+		}
+		.day{
+			color: #616161;
+			font-size: 13px;
+			float: right;
+			position: relative;
+			right: 30px;
+		}
+		.main_change{
+			height: 200px;
+			width: 420px;
+			display: none;
+		}
+
+	</style>
+</head>
+<body>
+	
+	<div id="main_right_top_side">
+		<ul class="main_top_side_ul">	
+			<li class="main_top_side_list">新闻</li>
+			<li class="main_top_side_list">公告</li>
+			<li class="main_top_side_list">活动</li>
+			<li class="main_top_side_list">赛事</li>
+			<li class="main_top_side_list">社区</li>
+			<li style="list-style: none;float: left;margin-top:20px;"><a href="" style="font-size: 0.8em;text-decoration: none;color: #c4b79b;">更多<i class="fa fa-add"></i></a></li>
+		</ul>
+		<div style="display: block;" class="main_change">
+
+			<div class="main_midlle"><a href="" class="main_a">[新闻] DNF邀您参与玩家面对面，国服方向大家谈</a></div>
+			<ul class="main_bottom_list">
+					<span class="day">8/10</span>
+					<li class="main_bottom">[新闻] DNF DPL联赛报名正式启动四大平台主播实力招人</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[新闻] 八月金毛礼盒，+13强化券不可错过</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[新闻] 那些年爆的史诗，现在终于能穿上了</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[新闻] 携手闯深渊，叫好友一起刷深渊吧</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[新闻] 向艾肯冲啊，艾肯装备礼盒大放送</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[新闻] 周周签到享惊喜，白金传说勋章等你来拿</li>
+			</ul>	
+		</div>
+
+
+
+		<div class="main_change">
+
+			<div class="main_midlle"><a href="" class="main_a">[公告] 8月9日 9点不停机更新公告</a></div>
+			<ul class="main_bottom_list">
+					<span class="day">8/10</span>
+					<li class="main_bottom">[公告] DNF违规封停公告第三批（8月）</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[公告] DNF信用星级规则调整公告</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[公告] DNF违规封停公告第二批（8月）</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[公告] 8月6日电信网络运营商故障相关公告</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[公告] 超时空副本安全规范公告</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[公告] DNF违规封停公告（8月）</li>
+			</ul>	
+		</div>
+
+
+
+		<div class="main_change">
+
+			<div class="main_midlle"><a href="" class="main_a">[活动] 枪剑合一 使命必达，枪剑士二次觉醒登陆</a></div>
+			<ul class="main_bottom_list">
+					<span class="day">8/10</span>
+					<li class="main_bottom">[活动] 八月金毛礼盒，+13强化券不可错过</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[活动] 那些年爆的史诗，现在终于能穿上了</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[活动] 携手闯深渊，叫好友一起刷深渊吧</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[活动] 向艾肯冲啊，艾肯装备以及礼盒大放送</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[活动] 周周签到享惊喜，白金徽章和传说勋章等你来拿</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[活动] QQ会员携手送好礼，黑钻会员等游戏大礼免费领</li>
+			</ul>	
+		</div>
+
+
+
+		<div class="main_change">
+
+			<div class="main_midlle"><a href="" class="main_a">[格斗大赛] 11届格斗大赛回顾：全国个人总决赛巅峰之战</a></div>
+			<ul class="main_bottom_list">
+					<span class="day">8/10</span>
+					<li class="main_bottom">[格斗大赛] DNF格斗大赛，哈尔滨北大区决赛你追我赶</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[格斗大赛] 11届格斗大赛：哈尔滨北大区4进2 柔术与炫纹</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[格斗大赛] DNF格斗大赛，北大区4进2同门之争</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[格斗大赛] DNF格斗大赛，北大区16进8空投兵致胜</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[格斗大赛] DNF格斗大赛，北大区20进16骚扰的胜利</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[格斗大赛] “勇士聚首 挚爱十年”大区赛，高格调盛典</li>
+			</ul>	
+		</div>
+
+
+
+		<div class="main_change">
+
+			<div class="main_midlle"><a href="" class="main_a">[论坛] 你当初为什么选择和培养如今主玩的职业？</a></div>
+			<ul class="main_bottom_list">
+					<span class="day">8/10</span>
+					<li class="main_bottom">[论坛] 2分钟看完0802版本更新内容</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[论坛] 体验服快讯：0802版本更新</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[论坛] 萌新十大防骗指南（二）</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[论坛] DNF仓库进化史</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[论坛] 一个月能得几个红豆？</li>
+					<span class="day">8/10</span>
+					<li class="main_bottom">[论坛] 论坛积分兑换活动：职业勋章</li>
+			</ul>	
+		</div>
+						
+	</div>
+	<script type="text/javascript">
+			var li = document.getElementsByClassName('main_top_side_list');
+			var div = document.getElementsByClassName('main_change');
+			for(var i = 0;i < li.length;i ++){
+				(function(n){
+					li[n].onmouseover = function(){
+						for(var j = 0;j < li.length;j ++){
+							li[j].style.borderTop = '3px solid rgb(23,19,19)';
+							div[j].style.display = 'none';
+						}
+						
+						li[n].style.borderTop = "3px solid orange";
+						div[n].style.display = "block";
+					}
+				}(i))
+			}
+
+
+	</script>
+
+
+</body>
+</html>
