@@ -4,7 +4,7 @@ var inquire = document.getElementById("inquire").addEventListener("click",inform
 		var xhr = new XMLHttpRequest();
 		var term = document.getElementById("theTerm").value;
 		var year = document.getElementById("theYear").value;
-		xhr.open('POST','http://192.168.230.25:3000/api/grade',true);
+		xhr.open('POST',“”,true);
 		xhr.setRequestHeader('Content-type','application/x-www-form-urlencoded');
 		xhr.onreadystatechange = function(){
 			if(xhr.readyState == 4 && xhr.status == 200){
