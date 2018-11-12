@@ -1,0 +1,75 @@
+*{
+			padding: 0;
+			margin: 0;
+		}
+		.topTittle{
+			height: 5rem;
+			width: 100%;
+			display: inline-block;
+			box-shadow: 0.5rem 0.5rem 0.5rem #404040;
+			margin-bottom: 1rem;
+			font-size: 1.2rem;
+			background-image: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1540572971941&di=12275435222e90226b59f1eeb258ac1d&imgtype=0&src=http%3A%2F%2Fpic30.nipic.com%2F20130624%2F610812_110550186381_2.jpg);
+			background-size: 150%;
+		}
+		.buttonTittle{
+			height: 3rem;
+			width: 100%;
+			margin-bottom: 1rem;
+		}
+		.button{
+			float: left;
+			height: 4rem;
+			width: 25%;
+			list-style: none;
+			text-align: center;
+			background: #909090;
+			border-radius: 0.5rem;
+			margin-bottom: 5rem;
+			font-size: 1.1rem;
+		}
+		.studyGrades{
+			width: 90%;
+			/*height: 50%;*/
+			position: absolute;
+			top: 30%;
+			display: none;
+			margin-left: 5%;
+		}
+		#studyGrades1{
+			display: block;
+			width: 80%;
+			height: 10rem;
+			margin-left: 10%;
+			text-align: center;
+			text-shadow: 1rem 1rem 1rem #707070;
+		}
+		li{
+			list-style: none;
+		}
+		.studyGradesSum{
+			height: 3rem;
+			width: 100%;
+			text-align: center;
+		}
+		.object{
+			
+			width: 99.7%;
+			/*margin-left: 5%;*/
+			border-collapse:collapse;
+		}
+		.overline{
+			/*height: 1.5rem;*/
+			width:100%;
+		}
+		.reCourseSumWorld{
+			width: 60%;
+			min-height: 1rem;
+			font-size: 1.2rem;
+			line-height: 2.1rem;
+		}
+		.reCourseSumGrade{
+			width: 40%;
+			min-height: 1.5rem;
+			font-size: 1.2rem;
+		}
