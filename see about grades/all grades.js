@@ -37,7 +37,7 @@ var studyGrades = document.getElementsByClassName("studyGrades");
 
 		//el课程输入到div中
 		var xhr = new XMLHttpRequest();
-		xhr.open('POST','http://192.168.230.25:3000/api/study',true);
+		xhr.open('POST',“”,true);
 
 		xhr.onreadystatechange = function (){
 			if(this.status == 200 && this.readyState == 4){
