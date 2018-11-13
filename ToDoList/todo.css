@@ -1,0 +1,62 @@
+*{
+			padding: 0;
+			margin: 0;
+		}
+		body{
+			background: rgb(205,205,205);
+		}
+		.mainTop{
+			height: 50px;
+			width: 100%;
+			background: rgb(50,50,50);
+			font-size: 2em;
+			color: rgb(221,221,221);
+			text-align: center;
+			border-bottom-left-radius: 10px;
+			border-bottom-right-radius:10px; 
+		}
+		.mainWrite{
+			height: 150px;
+			width: 30%;
+			position: relative;
+			left: 50%;
+			margin-left: -300px;
+			background: rgb(50,50,50);
+			border-bottom-left-radius: 10px;
+			border-bottom-right-radius:10px;
+		}
+		#inputToDo{
+			height: 30px;
+			width: 65%;
+			border-radius: 7px;
+			position:relative;
+			left: 15%;
+			top: 40%;
+		}
+		.submitToDo{
+			display: inline-block;
+			text-decoration: none;
+			padding: 1% 5% 1% 5%;
+			color: white;
+			font-size: 1.3em;
+			text-align: center;
+			background: rgb(76,175,80);
+			border-radius: 5px;
+			position: relative;
+			top: 70%;
+			left: -30%;
+		}
+		.prepare{
+			width:50%;
+			height:600px;
+			background:red;
+			position: absolute;
+		}
+		.start{
+			width: 50%;
+			height:600px;
+			float: left;
+			background: green;
+			position: absolute;
+			left: 50%;
+		}
