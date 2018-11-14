@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+	*{
+		padding: 0;
+		margin: 0;
+	}
+		.aBlock{
+			border:30px solid;
+			height: 200px;
+			width: 300px;
+			background:green;
+		  	border-radius: 5px;
+		  	box-shadow: 10px 10px 10px #707070;
+		  	/*-webkit-border-image:url(http://www.runoob.com/images/border.png) 30 30 round;*/
+			/*-o-border-image:url(http://www.runoob.com/images/border.png) 30 30 round;*/
+			/*border-image:url(http://www.runoob.com/images/border.png) 30 30 round;*/
+			border-image-source: url(http://www.runoob.com/images/border.png);
+			border-image-width:15%;
+			border-image-slice:35% 35% 35% 35%;
+			border-image-repeat: round;
+			border-image-outset: 27px;
+
+		}
+	</style>
+</head>
+<body>
+	<div class="aBlock"></div>
+</body>
+</html>
