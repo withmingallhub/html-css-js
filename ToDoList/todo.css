@@ -6,7 +6,6 @@
 			background: rgb(205,205,205);
 		}
 		.mainTop{
-			height: 50px;
 			width: 100%;
 			background: rgb(50,50,50);
 			font-size: 2em;
@@ -16,7 +15,6 @@
 			border-bottom-right-radius:10px; 
 		}
 		.mainWrite{
-			height: 150px;
 			width: 30%;
 			position: relative;
 			left: 50%;
@@ -48,15 +46,25 @@
 		}
 		.prepare{
 			width:50%;
-			height:600px;
-			background:red;
-			position: absolute;
+			float: left;
+			background:#707070;
 		}
 		.start{
 			width: 50%;
-			height:600px;
 			float: left;
-			background: green;
-			position: absolute;
-			left: 50%;
+			background: white;
+		}
+		.Etherious_Natsu_Dragneel{
+			width: 100%;
+			text-align: center;
+		}
+		li{
+			list-style: none;
+			line-height: 40px;
+			width: 60%;
+			background: white;
+			border-radius: 5px;
+			position: relative;
+			left: 20%;
+			margin-top: 10px;
 		}
