@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+	.father{
+		padding: 0 120px;				/*对整体div设置内边距，之后将两边div移到内容区以外*/
+	}
+	.col{
+	    float: left;					/*使用浮动，使用margin-left就可以移到上一行*/
+	    height: 200px;					
+	    position: relative;             /*采用相对定位，相对自己的位置挪出去*/
+	}
+	.left,.right{
+	    width: 100px;					/*设置两边的宽度*/
+	}
+	.left{
+	    background-color: blue;
+	    margin-left: -100%;
+	    right: 120px;					/*把图像的右边缘设置在其包含元素右边缘向左 120 像素的位置*/
+	}
+	.right{
+	    background-color: green;
+	    margin-left: -100px;
+	    left: 120px;
+	}									
+	.main{
+	    width: 100%;
+	    background-color: pink;
+	}
+	</style>
+</head>
+<body>
+    <div class="father">
+	    <div class="main col"></div>
+	    <div class="left col"></div>
+	    <div class="right col"></div>
+	</div>
+</body>
+</html>
